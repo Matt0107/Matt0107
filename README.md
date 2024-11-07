@@ -30,10 +30,11 @@ I used to work for a long time in sales and I'm transitioning into software deve
 
 ---
 
-### 🌐 See my online websites
-[![Visit Afrotennis](https://img.shields.io/badge/Visit_My_Website-3498db?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://afrotennis.com)
+## 🌟 Projects I've Worked On
 
-Découvrez mes derniers projets, articles de blog, et plus encore sur mon [site personnel](https://tonsite.com).
+Here is a selection of projects I’ve completed. Click on each to learn more:
+
+- [**Afrotennis**](https://afrotennis.com/) - React App
 
 
 
