@@ -6,8 +6,6 @@ I used to work for a long time in sales and I'm transitioning into software deve
 
 📫 get in touch: <a href="https://www.linkedin.com/in/mathieu-du/" target="_blank">LinkedIn</a>
 
-<!-- 💫 swing by my <a href="https://marianne-helbig.vercel.app/" target="_blank">portfolio</a> -->
-
 ---
 
 ### :hammer_and_wrench: I work with the following Languages and Tools :
@@ -30,11 +28,14 @@ I used to work for a long time in sales and I'm transitioning into software deve
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Matt0107&theme=dark&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
-<!-- [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=MarianneH&count_private=true&theme=tokyonight&showicons=true)]()
+---
+
+### 🌐 See my online websites
+[![Visit Afrotennis](https://img.shields.io/badge/Visit_My_Website-3498db?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://afrotennis.com)
+
+Découvrez mes derniers projets, articles de blog, et plus encore sur mon [site personnel](https://tonsite.com).
 
 
-
-**MarianneH/MarianneH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
