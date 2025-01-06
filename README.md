@@ -1,6 +1,6 @@
 ### Hi there 👋 - I'm Mathieu
 
-Welcome to my small word of coding
+Welcome to my small world of coding
 
 📫 get in touch: <a href="https://www.linkedin.com/in/mathieu-du/" target="_blank">LinkedIn</a>
 
