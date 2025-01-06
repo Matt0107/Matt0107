@@ -32,5 +32,8 @@ Welcome to my small word of coding
 
 Here is a selection of projects I’ve completed. Click on each to learn more:
 
-- [**Afrotennis**](https://afrotennis.com/) - React App
+- [**Afrotennis**](https://afrotennis.com/)
+- [**JC Trainer**](https://jctrainer.com/)
+- [**Eileen Baum**](https://www.eileenbaum.de/)
+
 
