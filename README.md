@@ -1,8 +1,6 @@
 ### Hi there 👋 - I'm Mathieu
 
-I used to work for a long time in sales and I'm transitioning into software development.
-
-🌱 I have been introduced to the world coding by following a web development bootcamp at Ironhack.
+Welcome to my small word of coding
 
 📫 get in touch: <a href="https://www.linkedin.com/in/mathieu-du/" target="_blank">LinkedIn</a>
 
